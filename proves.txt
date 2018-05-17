@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+=======
+# proves
+>>>>>>> slave
 # proves master
+# git_test
